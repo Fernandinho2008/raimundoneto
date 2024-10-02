@@ -1,11 +1,11 @@
 :root {
-    --text-color: #000000;
-    --card-front-color: #0268e6;
-    --card-back-color: #9a88d6;
+    --text-color: #e8acf9;
+    --card-front-color: #a502e6;
+    --card-back-color: #beabff;
 }
 
 body {
-    background: url('img/plano.jpeg');
+    background: url('img/nuvem.jpeg');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/plano.jpeg'), no-repeat cover;
+        background: url('img/nuvem.jpeg'), no-repeat cover;
     }
 
     .cartao {
