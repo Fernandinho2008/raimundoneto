@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/nuvem.jpeg');
+    background: url('img/japa.jpeg');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/nuvem.jpeg'), no-repeat cover;
+        background: url('img/japa.jpeg'), no-repeat cover;
     }
 
     .cartao {
